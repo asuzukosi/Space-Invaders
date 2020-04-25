@@ -1,0 +1,36 @@
+#grid{
+  display: flex;
+  flex-wrap: wrap;
+  height: 500px;
+  width: 500px;
+  background: black;
+  border: solid;
+  border-color: black;
+  border-width: thick;
+}
+.box{
+  display: block;
+  height: 50px;
+  width: 50px;
+  background: white;
+}
+
+.spaceShip{
+  display: block;
+  height: 50px;
+  width: 50px;
+  background: blue;
+}
+
+.invaders{
+  display: block;
+  height: 50px;
+  width: 50px;
+  background: red;
+}
+.bullet{
+  display: block;
+  height: 50px;
+  width: 50px;
+  background: yellow;
+}
